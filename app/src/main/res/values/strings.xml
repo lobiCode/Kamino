@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kamino</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="planet_name">Planet name:</string>
+    <string name="rotation_period">Rotation period:</string>
+    <string name="orbital_period">Orbital period:</string>
+    <string name="diameter">Diameter:</string>
+    <string name="climate">Climate:</string>
+    <string name="gravity">Gravity:</string>
+    <string name="terrain">Terrain:</string>
+    <string name="surface_water">Surface water:</string>
+    <string name="population">Population: </string>
+    <string name="like_kamino_planet">Do you like Kamino planet?</string>
+    <string name="likes"># likes:</string>
+    <string name="residents">Residents</string>
+
+    <string name="resident_name">Name:</string>
+    <string name="resident_height">Height:</string>
+    <string name="resident_mass">Mass:</string>
+    <string name="resident_hair_color">Hair color:</string>
+    <string name="resident_skin_color">Skin color:</string>
+    <string name="resident_eye_color">Eye color:</string>
+    <string name="resident_birth_year">Birth year:</string>
+    <string name="resident_gender">Gender:</string>
+
+    <string name="no_network">"No network connection available."</string>
+
+</resources>
